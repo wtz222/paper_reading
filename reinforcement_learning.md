@@ -16,3 +16,7 @@ summary:
 goal in rl context - for better exploration
 method - Bayesian backpropagation (use an ensemble of nenural networks)
 treating expectation under posterior as an ensemble of an uncountably infinite number of neural networks
+
+### Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning(Part)
+date: Oct 24, 2023
+point: learn to predict the difference between the state now and the next state instead of predicting the next state directly since these two states are often quite similar.
